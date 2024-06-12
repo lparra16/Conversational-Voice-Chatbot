@@ -1,4 +1,4 @@
-# Babagaboosh
+# Conversational-Voice-Chatbot
 Simple app that lets you have a verbal conversation with OpenAi's GPT 4. (Now works with GPT-4o and what was used for Luca Parra)
 Written by DougDoug. Minor additions were added by Luca Parra. Original README written by DougDoug and updated by Luca Parra.
 Original file is named Babagaboosh and the original GitHub is here: https://github.com/DougDougGithub/Babagaboosh
